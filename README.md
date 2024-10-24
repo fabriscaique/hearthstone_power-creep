@@ -21,6 +21,10 @@ The project includes various plots to illustrate our findings:
 - Line plots showcasing average attack and health values of minions over the years.
 - Comparisons of efficiency between different rarity types using violin plots.
 
+## 📑 Presentation
+
+A **PPTX file** is included with the project, containing the presentation of our findings. It includes detailed notes to guide the reader through the analysis process, discussions, and conclusions drawn from our research.
+
 ## 📝 Conclusion
 
 After thorough analysis, we concluded that the feeling of power creep cannot be solely attributed to the increasing stats of minions across expansions. Instead, minions have remained balanced over time, maintaining the integrity of the game. ⚖️
